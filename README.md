@@ -1,5 +1,3 @@
-[![Demo](https://img.youtube.com/vi/OIYo1stYFyw/0.jpg)](https://www.youtube.com/watch?v=OIYo1stYFyw)
-
 ## Project Description: StratX
 
 **Introduction**
