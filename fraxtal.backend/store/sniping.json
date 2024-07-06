@@ -1,0 +1,23 @@
+{
+  "snipingAmount": "5500000000000000000",
+  "currentToken": {
+    "address": "",
+    "price": "0",
+    "amount": "0"
+  },
+  "snipe": [
+    {
+      "user": "0xc699dc72Da10141eE105f9C70aDe50d3F72e81eb",
+      "amount": "2000000000000000000"
+    },
+    {
+      "user": "0xc699dc72Da10141eE105f9C70aDe50d3F72e81eb",
+      "amount": "500000000000000000"
+    },
+    {
+      "user": "0xc699dc72Da10141eE105f9C70aDe50d3F72e81eb",
+      "amount": "3000000000000000000"
+    }
+  ],
+  "readyToSnipe": false
+}

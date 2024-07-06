@@ -1,0 +1,48 @@
+{
+  "0xE2db7ef93684d06BbF47137000065cF26E878B2e": [
+    {
+      "strategyId": "2",
+      "initialDepositBalance": "0",
+      "initialDepositCollatral": "0",
+      "finalDepositBalance": "500000000000000000",
+      "finalDepositCollatral": "499975000000000000"
+    }
+  ],
+  "0xc699dc72Da10141eE105f9C70aDe50d3F72e81eb": [
+    {
+      "strategyId": "2",
+      "initialDepositBalance": "0",
+      "initialDepositCollatral": "0",
+      "finalDepositBalance": "0",
+      "finalDepositCollatral": "999950000000000000"
+    },
+    {
+      "strategyId": "3",
+      "initialDepositBalance": "0",
+      "initialDepositCollatral": "999950000000000000",
+      "finalDepositBalance": "1000000000000000000",
+      "finalDepositCollatral": "999750000000000000"
+    },
+    {
+      "strategyId": "3",
+      "initialDepositBalance": "1000000000000000000",
+      "initialDepositCollatral": "999750000000000000",
+      "finalDepositBalance": "1000000000000000000",
+      "finalDepositCollatral": "999700000000000000"
+    },
+    {
+      "strategyId": "4",
+      "initialDepositBalance": "1000000000000000000",
+      "initialDepositCollatral": "999700000000000000",
+      "finalDepositBalance": "1000000000000000000",
+      "finalDepositCollatral": "1999600000000000000"
+    },
+    {
+      "strategyId": "5",
+      "initialDepositBalance": "1000000000000000000",
+      "initialDepositCollatral": "1999600000000000000",
+      "finalDepositBalance": "1000000000000000000",
+      "finalDepositCollatral": "1999350000000000000"
+    }
+  ]
+}
